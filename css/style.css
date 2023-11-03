@@ -45,7 +45,7 @@ ul {
   }
 
   .container-2-a{
-    margin-right:50px;
+    /* margin-right:50px; */
     width:50%;
     
   }
@@ -64,9 +64,20 @@ ul {
   #img{
     height:90%;
     width:100%;
+    
   }
 
   .container-2-b{
-    margin-left:50px;
+    /* margin-left:50px; */
     width:50%;
+  }
+
+  #button1{
+    background-color:#3882F6;
+    color:white;
+    border-radius:5px;
+    width: 120px;
+    height:40px;
+    font-size:20px;
+    border:0px;
   }
