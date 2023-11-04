@@ -119,6 +119,7 @@ ul>li>a:hover{
     font-size:20px;
     border:0px;
     font-weight:600;
+    border:1px solid white;
   }
 
   #button1:hover{
@@ -186,11 +187,15 @@ ul>li>a:hover{
   display:flex;
   background-color:#3882F6;
   color:white;
-  padding-left:100px;
+  padding-left:200px;
   padding-right:100px;
   padding-top:70px;
   padding-bottom:50px;
   border-radius:15px;
+ }
+
+ .c-5-a-2{
+  padding-left:-100px;
  }
 
 #unique{
